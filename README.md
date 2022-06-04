@@ -11,10 +11,11 @@ We could run the model by trial and error to get the number of clusters however 
 <img width="606" alt="Elbow_curve_image" src="https://user-images.githubusercontent.com/31755703/171970241-3b553b53-5a4b-46af-9db4-0cad7b25ed4e.PNG">
 
 
-After using PCA (Principal Component Analysis) which is a statistical technique to speed up machine learning algorithms when the number of input features (or dimensions) is too high. We get this graph where 
+After using PCA (Principal Component Analysis) which is a statistical technique to speed up machine learning algorithms when the number of input features (or dimensions) is too high. We get this graph where we can perceive the different clusters and how they behave through the 3 Principal Components obtained.
 
 
 <img width="652" alt="3dplot" src="https://user-images.githubusercontent.com/31755703/171970243-855a040e-0623-44d8-8b21-cd0fdca76e2d.PNG">
 
+Finally we plotted the relationship between Total Coins mined and Total Coins Supplied which is definitely one question will arrive at the final presentation.
 
 <img width="615" alt="scatterplot" src="https://user-images.githubusercontent.com/31755703/171970250-5c691bca-e1a9-4763-b7c3-f767ea3161c0.PNG">
